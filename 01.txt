@@ -1,1 +1,1 @@
-type ur answer
+базовый и рекурсивный случаи поменяны, factorial 0 должен возвращать 1, а factorial n должен возвращать n * factorial (n - 1)
