@@ -1,1 +1,1 @@
-type ur answer
+Сначала возвращает currentCounter, а уже потом прибавляет внутри функции updateCount единицу. Не меняется в итоге count
